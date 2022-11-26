@@ -27,7 +27,7 @@ Since I will be hosting the download on MTS I will also handle patch related upd
 If you are making changes to your custom files after submission for whatever reason, please make sure to list the reason in the push. Also, please avoid altering people's custom VFX or the converted VFX without at least first contacting the creators (converted contact to me), or clone them instead of a direct change (with permission). Alterations without notice could cause problems for the original reasons they were made. Any alterations to someone's work or converted TS3/TSM VFX without prior notice and approval will not be accepted.
 
 ## How to Use the VFX
-Works like EA VFX when referencing, find the name of the VFX you want in the CurrentVFXList.txt, then copy and paste it's name in the appropriate spot.
+Works like EA VFX when referencing, find the name of the VFX you want in the CustomVFXList.txt, then copy and paste it's name in the appropriate spot.
 
 If you need to preview the VFX, install the main download like a normal mod and then download [Andrew's VFX player](https://sims4studio.com/post/43316). Note that in some rare cases a VFX (custom or EA) might not play, but I'm not sure what determines it yet.
 
