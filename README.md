@@ -22,7 +22,7 @@ You can either submit your regular VFX following the instructions on the submiss
 [Submitting Converted TS3/TSM VFX](https://github.com/MizoreYukii/TS4-Custom-VFX-Resource/wiki/Submitting-Converted-TS3-or-TSM-VFX) - If for some reason you are doing this yourself (please let me know before you do to avoid issues and conflicts), please follow the specific guidelines listed in the instructions.
 
 ## Updates
-Since I will be hosting the download on MTS I will also handle patch related updates, which if EA doesn't change anything drastic should be simply opening the VFX and re-saving after the VFX tool updates.
+Since I will be hosting the download I will also handle patch related updates, which if EA doesn't change anything drastic should be simply opening the VFX and re-saving after the VFX tool updates.
 
 If you are making changes to your custom files after submission for whatever reason, please make sure to list the reason in the push. Also, please avoid altering people's custom VFX or the converted VFX without at least first contacting the creators (converted contact to me), or clone them instead of a direct change (with permission). Alterations without notice could cause problems for the original reasons they were made. Any alterations to someone's work or converted TS3/TSM VFX without prior notice and approval will not be accepted.
 
