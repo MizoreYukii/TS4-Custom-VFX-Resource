@@ -4,6 +4,8 @@ Sims 4 community resource for custom VFX to avoid conflicts.
 ## About
 Since custom VFX requires editing a single file in order to work in-game and only one can be installed at a time, mostly similar to the situation with venues, I've put together a community resource to avoid conflicts. I was already making one for my mods (converting everything from TS3/TSM, some animations/objects use unique VFX), then I realized others could use it too and we could avoid conflicts and confusion by maintaining a single resource instead. Note that it works similarly to XML Injector, mod users grab the latest version from the CurseForge (CF) (and maybe ModTheSims (MTS)) download page that I will be hosting, while unlike XML Injector modders can submit their VFX here, or request VFX to be converted or adjusted and then added to the main download.
 
+Once the VFX has been added to this resource, make sure to link the downlad page in your mod description and/or set it as a dependency if uploading to CurseForge.
+
 
 Note that NSFW related VFX is allowed, but has to follow a few guidelines, which you can find more details about on the Submitting page linked below.
 
