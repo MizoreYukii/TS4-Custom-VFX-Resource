@@ -12,7 +12,7 @@ Note that NSFW related VFX is allowed, but has to follow a few guidelines, which
 ## Download
 This works like XML Injector, users _must_ download from the main download page. **Do not include the resource in your downloads!!** It will cause confusion and result in outdated files floating around if you do that.
 
-Download
+[Download](https://www.curseforge.com/sims4/mods/custom-vfx-resource)
 
 ## Submitting
 You can either submit your regular VFX following the instructions on the submission page, or if needing a converted TS3/TSM VFX contact me to request it be added, which is recommended to avoid issues and because there are several guidelines to follow for conversions.
@@ -21,7 +21,7 @@ You can either submit your regular VFX following the instructions on the submiss
 
 [Requesting Converted TS3/TSM VFX](https://github.com/MizoreYukii/TS4-Custom-VFX-Resource/wiki/Requesting-Converted-TS3-TSM-VFX) - Note: Since I am converting everything from TS3/TSM that is animated and/or functional, along with all VFX, I will have all VFX done eventually and requests for conversions will no longer be needed when that goal is reached. Requests for alterations will still be available though, and this section will be altered to reflect that.
 
-[Submitting Converted TS3/TSM VFX](https://github.com/MizoreYukii/TS4-Custom-VFX-Resource/wiki/Submitting-Converted-TS3-or-TSM-VFX) - If for some reason you are doing this yourself (please let me know before you do to avoid issues and conflicts), please follow the specific guidelines listed in the instructions.
+[Submitting Converted TS3/TSM VFX](https://github.com/MizoreYukii/TS4-Custom-VFX-Resource/wiki/Submitting-Converted-TS3-or-TSM-VFX) - If for some reason you are doing this yourself (please let me know before you do to avoid issues and conflicts), please follow the instructions exactly.
 
 ## Updates
 Since I will be hosting the download I will also handle patch related updates, which if EA doesn't change anything drastic should be simply opening the VFX and re-saving after the VFX tool updates.
