@@ -35,7 +35,7 @@ Note that NSFW related VFX is allowed but has to follow a few guidelines in orde
 ## Updates
 Since I will be hosting the download I will also handle patch related updates, which if EA doesn't change anything drastic should be simply opening the VFX and re-saving after the VFX tool updates. You can of course do this yourself as well and submit another pull request, but check the Git first to make sure it wasn't already done.
 
-If you are making changes to your custom files after submission for whatever reason, please make sure to list the reason in the pull. Also, please avoid altering people's custom VFX or the converted VFX without at least first contacting the creators (converted contact to me), or clone them instead of a direct change (with permission). Alterations without notice could cause problems for the original reasons they were made. Any alterations to someone's work or converted TS3/TSM VFX without prior notice and approval will not be accepted.
+If you are making changes to your custom files after submission for whatever reason, please make sure to list the reason in the pull. Also, please avoid altering people's custom VFX or the converted VFX without at least first contacting the creators (converted contact to me), or instead clone them rather than a direct change (with permission). Alterations without notice could cause problems for the original reasons they were made. Any alterations to someone's work or converted TS3/TSM VFX without prior notice and approval will not be accepted.
 
 ## How to Use the VFX
 Works like EA VFX when referencing, find the name of the VFX you want in the CustomVFXList.txt, then copy and paste it's name in the appropriate spot.
