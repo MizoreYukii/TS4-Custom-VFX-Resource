@@ -24,3 +24,5 @@ Converted TSM:
 
 
 Custom:
+necrodog_frank_lighting_down_up
+necrodog_frank_lighting_static_small
