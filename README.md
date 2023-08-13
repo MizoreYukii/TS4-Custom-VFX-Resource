@@ -10,9 +10,9 @@ Sims 4 community resource for custom VFX to avoid conflicts.
 * [Contact/Help](https://github.com/MizoreYukii/TS4-Custom-VFX-Resource#contacthelp)
 
 ## About
-Since custom VFX requires editing a single file in order to work in-game and only one can be installed at a time, mostly similar to the situation with venues, I've put together a community resource to avoid conflicts. I was already making one for my mods (converting everything from TS3/TSM, some animations/objects use unique VFX), then I realized others could use it too and we could avoid conflicts and confusion by maintaining a single resource instead. Note that it works similarly to XML Injector, mod users grab the latest version from the CurseForge (CF) download page that I will be hosting, while unlike XML Injector modders can submit their VFX here, or request VFX to be converted or adjusted and then added to the main download.
+Since custom VFX requires editing a single file in order to work in-game and only one can be installed at a time, mostly similar to the situation with venues, I've put together a community resource to avoid conflicts. I was already making one for my mods (converting everything from TS3/TSM, some animations/objects use unique VFX), then I realized others could use it too and we could avoid conflicts and confusion by maintaining a single resource instead. Note that it works similarly to XML Injector, mod users grab the latest version from the CurseForge (CF) download page that I will be hosting, while unlike XML Injector modders can submit their VFX here, to me via messaging, or request VFX to be converted or adjusted and then added to the main download.
 
-Once the VFX has been added to this resource, make sure to link the downlad page in your mod description and/or set it as a dependency if uploading to CurseForge.
+Once the VFX has been added to this resource, make sure to link the downlad page in your mod description and/or set it as a dependency if uploading to CurseForge. If you originally had the VFX file included in your mod, make sure to remove it so you don't break anything!
 
 ## Download
 This works like XML Injector, users _must_ download from the main download page. **Do not include the resource in your downloads!!** It will cause confusion and result in outdated files floating around if you do that.
@@ -20,9 +20,9 @@ This works like XML Injector, users _must_ download from the main download page.
 [Download](https://www.curseforge.com/sims4/mods/custom-vfx-resource)
 
 ## Submitting
-You can either submit your regular VFX following the instructions on the submission page, or if needing a converted TS3/TSM VFX contact me to request it be added, which is recommended to avoid issues and because there are several guidelines to follow for conversions. Requests for alterations to existing VFX is also linked.
+You can either submit your regular VFX to me via messaging on any platform (recommended), or to this Git by following the instructions on the submission page. If you need a converted TS3/TSM VFX contact me to request it be added, which is recommended to avoid issues and because there are several guidelines to follow for conversions. Requests for alterations to existing VFX is also linked.
 
-Note that NSFW related VFX is allowed but has to follow a few guidelines in order to be included, which you can find more details about on the Submitting page.
+Note that NSFW related VFX is allowed but has to follow a few simple guidelines in order to be included, which you can find more details about on the Submitting page.
 
 [Submitting Custom VFX](https://github.com/MizoreYukii/TS4-Custom-VFX-Resource/wiki/Submitting-Custom-VFX)
 
@@ -40,14 +40,15 @@ If you are making changes to your custom files after submission for whatever rea
 ## How to Use the VFX
 Works like EA VFX when referencing, find the name of the VFX you want in the CustomVFXList.txt, then copy and paste it's name in the appropriate spot.
 
-If you need to preview the VFX, install the main download like a normal mod and then download [Andrew's VFX player](https://sims4studio.com/post/43316). Note that in some rare cases a VFX (custom or EA) might not play, but I'm not sure what determines it yet.
+If you need to preview the VFX, install the main download like a normal mod and then download [Andrew's VFX player](https://sims4studio.com/post/43316). Note that in some rare cases a VFX (custom or EA) seems like it might not play, but so far this seems to be because they are above or below the normal sims environment. You may need to install a camera mod to zoom out far enough to see them. (Thanks to Pancake for helping narrow that down.)
 
 ## Contact/Help
 If you need help with making VFX, using VFX, or making a mod/poses/CC item in general, please go to the creator server **[Creator Musings](https://discord.gg/qxz5Kn5)** where I or other creators may be able to help. It's a server I made for CC creators, posers/animators, and modders of all types to receive help, find tutorials/resources, and hang out with each other. You also do not need to be a creator to join, as everyone is welcome.
 
-If you need to contact me to request a VFX or report an issue, you can do so on any of my social media listed. Discord is the fastest way to reach me though as I am always active there, and if you are in Creator Musings (which hopefully you are!) you can just ping me in the server.
-- Discord: MizoreYukii#2574
-- Discord Server: https://discord.gg/JfCJEQBTBR
+If you need to contact me to submit/request a VFX or report an issue, you can do so on any of my social media listed. Discord is the fastest way to reach me though as I am always active there, and if you are in Creator Musings (which hopefully you are!) you can just ping me in the server.
+- Discord: mizoreyukii
+- Personal Discord Server: https://discord.gg/JfCJEQBTBR
+- CurseForge: https://legacy.curseforge.com/members/mizoreyukii
 - ModTheSims: http://modthesims.info/m/8201558
 - Tumblr: https://mizoreyukii.tumblr.com/
 - Twitter: https://twitter.com/MizoreYukii
