@@ -1,4 +1,9 @@
 Converted TS3:
+ep5eyes_finalmeaneyes
+ep5eyes_yellowaspectinter
+ep5eyes_yellowaspectoneinter
+ep5eyes_yellowblink
+ep5eyes_yellowinter
 ep6cameraflash
 ep6cameraflashmed
 ep6cameraflashsm
@@ -6,9 +11,19 @@ ep6crowdnormal_main
 ep6crowdposreaction_main
 ep6crowdsitaneutral_main
 ep6crowdsitapositive_main
-
-
-
+ep8hauntedhousearcs
+ep8hauntedhousefx
+ep8hauntedhouseghost0a
+ep8hauntedhouseghost0b
+ep8hauntedhouseghost180a
+ep8hauntedhouseghost180b
+ep8hauntedhouseghost270a
+ep8hauntedhouseghost270b
+ep8hauntedhouseghost90
+ep8hauntedhouseghost90left
+ep8hauntedhouseghost90right
+ep8hauntedhouseghostmeta
+ep8hauntedhouselights
 
 
 
@@ -55,6 +70,7 @@ necrodog_pizzaoven_steam_end
 necrodog_pizzaoven_steam_loop
 necrodog_sp46_pizzaoven_cook_flame
 necrodog_sp46_pizzaoven_start_flame
+sonozakisisters_white_ep17_crow_falling_feathers
 tanksmods_poker_accused_cheating
 tanksmods_poker_deal
 triple_sss_ep08_humanoid_robot_brain_sad
